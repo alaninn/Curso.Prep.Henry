@@ -1,0 +1,24 @@
+Explicaciones
+
+
+
+	* Variables
+	las variables son como caja de almacenamiento donde se guardan "cosas" y cada una de estas cajas guarda un tipo determinado de "cosas" pueden ser cajas que guarden texo, cajas que guarden numeros, ect 
+
+
+	* Strings
+    cuando se quiere mostrar algo que contiene texto, su variable tiene que ser de tipo string (como por ejemplo, sera una caja que guarda texto)
+
+	* Funciones (argumentos, `return`)
+una funcion seria como un una pequeña apliacion que cumple tareas dentro de una aplicacion mas grande, cumple cierta tarea en particular y se la puede usar para ahorrar tiempo.
+ si tendria una aplicacion de un reloj/calendario, el argumento seria la pregunta que reciba la funcion y el return seria la respuesta que esta de, por ejemplo 'que dia es hoy' seria el argumento y la respuesta seria miercoles 7 de septiembre del 2020, y en ves de crear el codigo que le pregunta cada ves lo mismo, se utiliza una funcion dentro de la misma aplicacion para cumplir tareas especificas.
+
+
+	* Declaraciones `if`
+
+un if lo que hace es realizar una pregunta donde el resultado puede ser si o no y segun la respuesta realiza un una serie de pasos, por el lado del si o por el lado del no, por ejemplo 
+una persona le pregunta a otra si le puede decir la hora, esta segunda persona dependiendo de si tiene un reloj le va a responder no, y la conversacion terminaria o si tuviera el reloj le diria que si y le responderia con el horario actual.
+
+	* Valores booleanos (`true`, `false`)
+
+	una valor booleano true es cuando algo es verdadero por ejemplo 1 + 1 == 2 daria como resultado un True ya que es algo verdadero, pero si fuera 1 + 1 == 3 la respuesta seria un False ya que es algo que no es verdad.
