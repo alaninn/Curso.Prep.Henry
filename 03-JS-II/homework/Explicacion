@@ -1,0 +1,20 @@
+Explicacion
+
+
+concepto `for`
+
+el 'for' cuenta de una variable inicial, con una condicion  y de un contador.
+Segun la condicion necesaria mientras esta no sea cumplida el contador aumentara el valor de la variable inicial con el objetivo de de lograr empatar con la condicion buscada como ejemplo, donde tendria que contar los primeros 10 numero la variable inicial seria iniciada en 0 y la condicion seria que la variable inicial sea menos o igual a 10, y mientras que eso no se cumpla, esa variable aumentara en 1 cada por cada ves que se vuelva a preguntar, cuando la variable alcanze el valor que empate con la condicion, terminara el ciclo
+
+
+concepto `&&`
+se utiliza para hacer una comparacion con un resultado con valor de verdad,el cual puede ser verdadero o falso, comparando dos premisas, con que una de las 2 sea falsa el resultado ya sera falso, solo es verdadero cuando ambas son verdaderas
+
+
+concepto `||`
+
+se utiliza para hacer una comparacion con un resultado con valor de verdad,el cual puede ser verdadero o falso, comparando dos premisas, para que el valor sea verdadero solo es necesario que una de las condiciones sea verdadera independiente de la otra que sea falsa su valor sera verdadero, unicamente es falso cuando se cumple que ambas condiciones son falsas
+
+concepto `!`
+
+se utiliza para negar una premisa por ejemplo "fui al cine"  si se agrega !"fui al cine" el valor de verdad seria que no fui al cine.  (5+5 = 10 ) esto es verdadero pero si pongo !(5 + 5 =10) esto es falso
