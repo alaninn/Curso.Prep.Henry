@@ -1,0 +1,26 @@
+explicacion
+
+* Objetos
+un objeto, es un conetenedor de datos, que tiene mucha informacion sobre algo en particular, como por ejemplo una persona,
+un objeto "persona" tendra toda la informacion de una persona, desde su nombre, apellido dni, y tanta infomracion como sea necesiaria, asi tambien
+como acciones que puede realizar, por ejemplo, caminar, comer, realizar una determinada accion.
+
+* Propiedades
+las propoiedades de un objeto son cada una de sus cualidades, por ejemplo en el objeto persona, sus propiedades podrian ser
+nombre, apellido, color de ojos, domicilio, y demas cosas que detallen la particularidad de este objeto
+
+
+* Métodos
+los metodos son las funciones que puede cumplir este objeto, por ejemplo en el objeto persona
+podria tener un metodo, caminar() que cumpliria toda las acciones necesarias para que el objeto persona realize dicha accion
+
+* Bucle `for…in`
+un bucle del tipo for.in recorre cada propiedad del objeto, por ejemplo si el objeto persona tiene como propiedad su nombre, apellido y edad
+en un bucle  for in persona, daria como resultado una variable en cada iteracion con cada propiedad del objeto persona, por ejemplo recorreria
+su nombre, su apellido y su edad.
+
+* Notación de puntos vs notación de corchetes
+la notacion de puntos ayuda a acceder a una propiedad de un objeto de manera mas intuitiva, por ejemplo el objeto persona que tiene como propiedades
+nombre, apellido y edad, para acceder a las mismas solo se utilizaria persona.nombre (o la propiedad que se requiera para ingresar)
+mientras que con la notacion de corchetes seria persona['nombre'] para acceder a su contenido, pero tiene como ventaja que se pueden guardar 
+en una variable la propiedad en este caso nombre y asignarle una variable por ejemplo nom = 'nombre', y podria acceder de la manera persona[nom]
